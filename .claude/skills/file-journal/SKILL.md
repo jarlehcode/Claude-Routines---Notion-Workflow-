@@ -14,7 +14,7 @@ Two databases are involved:
 
 1. Query Journal Categories for pages where `Archived` is unchecked. Read each `Name` and `Description`.
 2. Assign the note to the single best-fitting category. Prefer an existing one: a slightly loose fit is better than a new category, because feedback only becomes useful when a category collects many notes.
-3. Create a new category only when no existing one fits and the topic is likely to come up again. Give it a short name, write a one-line `Description`, and leave the body empty.
+3. Create a new category only when no existing one fits and the new category is likely to have new topics that come again. Give it a short name, write a one-line `Description`, and leave the body empty.
 
 ## Step 2: File the note
 
